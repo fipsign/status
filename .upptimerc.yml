@@ -15,3 +15,4 @@ status-website:
   logoUrl: https://fipsign.dev/assets/logo.svg
   introTitle: FIPSign Status
   introMessage: Real-time uptime monitoring for FIPSign services.
+gh-token: ${{ secrets.GH_PAT }}
