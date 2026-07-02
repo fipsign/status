@@ -2,12 +2,10 @@ owner: fipsign
 repo: status
 
 sites:
-  - name: FIPSign API
+  - name: PQ-Sign API
     url: https://api.fipsign.dev/health
-  - name: FIPSign Dashboard
+  - name: PQ-Sign Dashboard
     url: https://app.fipsign.dev
-  - name: FIPSign Landing
-    url: https://fipsign.dev
   - name: PQ-Proxy API
     url: https://proxy-api.fipsign.dev/health
   - name: PQ-Proxy Core
