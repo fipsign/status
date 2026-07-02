@@ -8,6 +8,10 @@ sites:
     url: https://app.fipsign.dev
   - name: FIPSign Landing
     url: https://fipsign.dev
+  - name: PQ-Proxy API
+    url: https://proxy-api.fipsign.dev/health
+  - name: PQ-Proxy Core
+    url: https://pq-proxy-core.fly.dev/health
 
 status-website:
   cname: status.fipsign.dev
