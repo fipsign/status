@@ -8,8 +8,6 @@ sites:
     url: https://app.fipsign.dev
   - name: PQ-Proxy API
     url: https://proxy-api.fipsign.dev/health
-  - name: PQ-Proxy Core
-     url: https://test.nox-pay.com
 
 status-website:
   cname: status.fipsign.dev
